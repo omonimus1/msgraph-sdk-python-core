@@ -183,11 +183,12 @@
         },
         "azure-core": {
             "hashes": [
-                "sha256:075fe06b74c3007950dd93d49440c2f3430fd9b4a5a2756ec8c79454afc989c6",
-                "sha256:d9664b4bc2675d72fba461a285ac43ae33abb2967014a955bf136d9703a2ab3c"
+                "sha256:8194d2682245a3e4e3151a667c686464c3786fed7918b394d035bdcd61bb5993",
+                "sha256:ab0c9b2cd71fecb1842d52c965c95285d3cfb38902f6766e4a471f1cd8905335"
             ],
-            "markers": "python_version >= '3.7'",
-            "version": "==1.26.4"
+            "index": "pypi",
+            "markers": "python_version >= '3.9'",
+            "version": "==1.38.0"
         },
         "certifi": {
             "hashes": [
@@ -843,11 +844,11 @@
         },
         "typing-extensions": {
             "hashes": [
-                "sha256:38b39f4aeeab64884ce9f74c94263ef78f3c22467c8724005483154c26648d36",
-                "sha256:d1e1e3b58374dc93031d6eda2420a48ea44a36c2b4766a4fdeb3710755731d76"
+                "sha256:0cea48d173cc12fa28ecabc3b837ea3cf6f38c6d1136f85cbaaf598984861466",
+                "sha256:f0fa19c6845758ab08074a0cfa8b7aecb71c999ca73d62883bc25cc018c4e548"
             ],
             "markers": "python_version >= '3.9'",
-            "version": "==4.14.1"
+            "version": "==4.15.0"
         },
         "uritemplate": {
             "hashes": [
